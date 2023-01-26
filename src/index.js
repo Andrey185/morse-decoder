@@ -59,6 +59,6 @@ console.log(decode("00101010100000000010001011101000101110100000111111**********
 
 
 
-// module.exports = {
-//     decode
-// }
+module.exports = {
+    decode
+}
